@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAQMgqKFyYjrzohAajSK6NzTm+1N/UjxEI+wxM8kJ3vJoHRL4qlBkty3itCjp0FpDnnUIT+TBclyhfEJ/7NDZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\CodeWars\\FindTheParityOutlier\\FindTheParityOutlier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\WhatIsBetween.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\WhatIsBetween.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\WhatIsBetween.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\WhatIsBetween.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\WhatIsBetween.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\bin\Debug\net5.0\WhatIsBetween.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\bin\Debug\net5.0\WhatIsBetween.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\bin\Debug\net5.0\WhatIsBetween.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\bin\Debug\net5.0\WhatIsBetween.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\bin\Debug\net5.0\WhatIsBetween.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\bin\Debug\net5.0\ref\WhatIsBetween.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\bin\Debug\net5.0\WhatIsBetween.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\WhatIsBetween.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\ref\WhatIsBetween.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\WhatIsBetween.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhatIsBetween\obj\Debug\net5.0\WhatIsBetween.genruntimeconfig.cache

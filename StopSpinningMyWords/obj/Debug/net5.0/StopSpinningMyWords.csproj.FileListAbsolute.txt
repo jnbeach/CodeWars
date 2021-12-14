@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\StopSpinningMyWords.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\StopSpinningMyWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\StopSpinningMyWords.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\StopSpinningMyWords.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\StopSpinningMyWords.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\bin\Debug\net5.0\StopSpinningMyWords.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\bin\Debug\net5.0\StopSpinningMyWords.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\bin\Debug\net5.0\StopSpinningMyWords.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\bin\Debug\net5.0\StopSpinningMyWords.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\bin\Debug\net5.0\StopSpinningMyWords.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\bin\Debug\net5.0\ref\StopSpinningMyWords.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\bin\Debug\net5.0\StopSpinningMyWords.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\StopSpinningMyWords.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\ref\StopSpinningMyWords.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\StopSpinningMyWords.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\StopSpinningMyWords\obj\Debug\net5.0\StopSpinningMyWords.genruntimeconfig.cache

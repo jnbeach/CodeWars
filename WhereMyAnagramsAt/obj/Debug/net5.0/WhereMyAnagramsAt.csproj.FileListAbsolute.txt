@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\bin\Debug\net5.0\ref\WhereMyAnagramsAt.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\bin\Debug\net5.0\WhereMyAnagramsAt.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\ref\WhereMyAnagramsAt.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\WhereMyAnagramsAt\obj\Debug\net5.0\WhereMyAnagramsAt.genruntimeconfig.cache

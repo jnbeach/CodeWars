@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\bin\Debug\net6.0\ref\FindTheOddInt.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\ref\FindTheOddInt.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.genruntimeconfig.cache

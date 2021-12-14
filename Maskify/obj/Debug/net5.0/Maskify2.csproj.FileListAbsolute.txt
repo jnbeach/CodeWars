@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\Maskify2.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\Maskify2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\Maskify2.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\Maskify2.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\Maskify2.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\bin\Debug\net5.0\Maskify2.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\bin\Debug\net5.0\Maskify2.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\bin\Debug\net5.0\Maskify2.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\bin\Debug\net5.0\Maskify2.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\bin\Debug\net5.0\Maskify2.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\bin\Debug\net5.0\ref\Maskify2.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\bin\Debug\net5.0\Maskify2.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\Maskify2.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\ref\Maskify2.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\Maskify2.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Maskify2\obj\Debug\net5.0\Maskify2.genruntimeconfig.cache

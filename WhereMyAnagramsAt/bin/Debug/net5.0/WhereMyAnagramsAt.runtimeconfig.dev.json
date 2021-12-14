@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\straw\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\straw\\.nuget\\packages"
+    ]
+  }
+}

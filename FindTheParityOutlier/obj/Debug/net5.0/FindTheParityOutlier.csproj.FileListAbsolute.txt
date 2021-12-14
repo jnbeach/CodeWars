@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\FindTheParityOutlier.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\FindTheParityOutlier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\FindTheParityOutlier.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\FindTheParityOutlier.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\FindTheParityOutlier.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\bin\Debug\net5.0\FindTheParityOutlier.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\bin\Debug\net5.0\FindTheParityOutlier.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\bin\Debug\net5.0\FindTheParityOutlier.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\bin\Debug\net5.0\FindTheParityOutlier.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\bin\Debug\net5.0\FindTheParityOutlier.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\bin\Debug\net5.0\ref\FindTheParityOutlier.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\bin\Debug\net5.0\FindTheParityOutlier.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\FindTheParityOutlier.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\ref\FindTheParityOutlier.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\FindTheParityOutlier.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheParityOutlier\obj\Debug\net5.0\FindTheParityOutlier.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\PaginationHelper.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\PaginationHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\PaginationHelper.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\PaginationHelper.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\PaginationHelper.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\bin\Debug\net5.0\PaginationHelper.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\bin\Debug\net5.0\PaginationHelper.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\bin\Debug\net5.0\PaginationHelper.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\bin\Debug\net5.0\PaginationHelper.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\bin\Debug\net5.0\PaginationHelper.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\bin\Debug\net5.0\ref\PaginationHelper.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\bin\Debug\net5.0\PaginationHelper.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\PaginationHelper.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\ref\PaginationHelper.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\PaginationHelper.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\PaginationHelper\obj\Debug\net5.0\PaginationHelper.genruntimeconfig.cache

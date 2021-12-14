@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\DirectionsReduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\DirectionsReduction.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\DirectionsReduction.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\DirectionsReduction.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\bin\Debug\net5.0\DirectionsReduction.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\bin\Debug\net5.0\DirectionsReduction.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\bin\Debug\net5.0\DirectionsReduction.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\bin\Debug\net5.0\DirectionsReduction.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\bin\Debug\net5.0\DirectionsReduction.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\bin\Debug\net5.0\ref\DirectionsReduction.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\bin\Debug\net5.0\DirectionsReduction.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\DirectionsReduction.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\ref\DirectionsReduction.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\DirectionsReduction.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\DirectionsReduction.genruntimeconfig.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\DirectionsReduction\obj\Debug\net5.0\DirectionsReduction.csprojAssemblyReference.cache

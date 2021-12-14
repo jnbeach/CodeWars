@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JM7r5Q7PDRns5XLN7+fyVZ9zhgZRmRlcuMJA727ZWI7xHqEdcu18ZGK6BMNLxu3CKg70QwxgSWwb9g9UTFe7oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\CodeWars\\StopSpinningMyWords\\StopSpinningMyWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

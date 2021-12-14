@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/9gN0dU6ZOOZ28oSPmkisuC+rZZpB+i3sFCOTbHam+oTpJUbQ8hCc+4qXxBdKngvFEbbNElZ4iYl7cpCGk+Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\CodeWars\\MoveZeroes\\MoveZeroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

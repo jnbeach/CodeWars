@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\MoveZeroes.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\MoveZeroes.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\MoveZeroes.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\MoveZeroes.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\bin\Debug\net5.0\MoveZeroes.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\bin\Debug\net5.0\MoveZeroes.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\bin\Debug\net5.0\MoveZeroes.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\bin\Debug\net5.0\MoveZeroes.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\bin\Debug\net5.0\MoveZeroes.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\bin\Debug\net5.0\ref\MoveZeroes.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\bin\Debug\net5.0\MoveZeroes.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\MoveZeroes.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\ref\MoveZeroes.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\MoveZeroes.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoveZeroes\obj\Debug\net5.0\MoveZeroes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\bin\Debug\net5.0\GapInPrimes.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\bin\Debug\net5.0\GapInPrimes.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\bin\Debug\net5.0\GapInPrimes.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\bin\Debug\net5.0\GapInPrimes.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\bin\Debug\net5.0\GapInPrimes.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\bin\Debug\net5.0\ref\GapInPrimes.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\bin\Debug\net5.0\GapInPrimes.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\GapInPrimes.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\GapInPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\GapInPrimes.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\GapInPrimes.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\GapInPrimes.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\GapInPrimes.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\ref\GapInPrimes.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\GapInPrimes.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GapInPrimes\obj\Debug\net5.0\GapInPrimes.genruntimeconfig.cache

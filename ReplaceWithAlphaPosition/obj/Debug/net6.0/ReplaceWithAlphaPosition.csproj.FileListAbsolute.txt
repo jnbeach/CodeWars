@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\bin\Debug\net6.0\ReplaceWithAlphaPosition.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\bin\Debug\net6.0\ReplaceWithAlphaPosition.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\bin\Debug\net6.0\ReplaceWithAlphaPosition.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\bin\Debug\net6.0\ReplaceWithAlphaPosition.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\bin\Debug\net6.0\ref\ReplaceWithAlphaPosition.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\bin\Debug\net6.0\ReplaceWithAlphaPosition.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ReplaceWithAlphaPosition.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ReplaceWithAlphaPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ReplaceWithAlphaPosition.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ReplaceWithAlphaPosition.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ReplaceWithAlphaPosition.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ReplaceWithAlphaPosition.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ref\ReplaceWithAlphaPosition.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ReplaceWithAlphaPosition.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\ReplaceWithAlphaPosition\obj\Debug\net6.0\ReplaceWithAlphaPosition.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ohoyK91xXYtaG0kO/hsdyK0URiWjxMGCeuO8VIqSmVQZVjLb0htl4Dvju9TUVSjt/6Pqyr5xwXLq7M00CeIdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\CodeWars\\SumOfTriangularNumbers\\SumOfTriangularNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

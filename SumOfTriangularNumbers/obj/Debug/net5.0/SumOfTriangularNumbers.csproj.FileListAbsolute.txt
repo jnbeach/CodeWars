@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\SumOfTriangularNumbers.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\SumOfTriangularNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\SumOfTriangularNumbers.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\SumOfTriangularNumbers.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\SumOfTriangularNumbers.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\bin\Debug\net5.0\SumOfTriangularNumbers.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\bin\Debug\net5.0\SumOfTriangularNumbers.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\bin\Debug\net5.0\SumOfTriangularNumbers.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\bin\Debug\net5.0\SumOfTriangularNumbers.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\bin\Debug\net5.0\SumOfTriangularNumbers.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\bin\Debug\net5.0\ref\SumOfTriangularNumbers.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\bin\Debug\net5.0\SumOfTriangularNumbers.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\SumOfTriangularNumbers.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\ref\SumOfTriangularNumbers.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\SumOfTriangularNumbers.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SumOfTriangularNumbers\obj\Debug\net5.0\SumOfTriangularNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\Summation.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\Summation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\Summation.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\Summation.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\Summation.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\bin\Debug\net5.0\Summation.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\bin\Debug\net5.0\Summation.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\bin\Debug\net5.0\Summation.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\bin\Debug\net5.0\Summation.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\bin\Debug\net5.0\Summation.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\bin\Debug\net5.0\ref\Summation.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\bin\Debug\net5.0\Summation.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\Summation.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\ref\Summation.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\Summation.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Summation\obj\Debug\net5.0\Summation.genruntimeconfig.cache

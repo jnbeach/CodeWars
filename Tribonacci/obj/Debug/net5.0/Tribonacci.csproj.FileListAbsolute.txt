@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\Tribonacci.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\Tribonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\Tribonacci.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\Tribonacci.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\Tribonacci.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\bin\Debug\net5.0\Tribonacci.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\bin\Debug\net5.0\Tribonacci.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\bin\Debug\net5.0\Tribonacci.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\bin\Debug\net5.0\Tribonacci.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\bin\Debug\net5.0\Tribonacci.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\bin\Debug\net5.0\ref\Tribonacci.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\bin\Debug\net5.0\Tribonacci.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\Tribonacci.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\ref\Tribonacci.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\Tribonacci.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Tribonacci\obj\Debug\net5.0\Tribonacci.genruntimeconfig.cache
