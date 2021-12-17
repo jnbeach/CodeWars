@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\SplitString.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\SplitString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\SplitString.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\SplitString.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\SplitString.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\bin\Debug\net6.0\SplitString.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\bin\Debug\net6.0\SplitString.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\bin\Debug\net6.0\SplitString.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\bin\Debug\net6.0\SplitString.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\bin\Debug\net6.0\ref\SplitString.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\bin\Debug\net6.0\SplitString.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\SplitString.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\ref\SplitString.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\SplitString.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\SplitString\obj\Debug\net6.0\SplitString.genruntimeconfig.cache
