@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\FindTheCapitals.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\FindTheCapitals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\FindTheCapitals.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\FindTheCapitals.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\FindTheCapitals.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\bin\Debug\net6.0\FindTheCapitals.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\bin\Debug\net6.0\FindTheCapitals.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\bin\Debug\net6.0\FindTheCapitals.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\bin\Debug\net6.0\FindTheCapitals.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\bin\Debug\net6.0\ref\FindTheCapitals.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\bin\Debug\net6.0\FindTheCapitals.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\FindTheCapitals.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\ref\FindTheCapitals.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\FindTheCapitals.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\FindTheCapitals\obj\Debug\net6.0\FindTheCapitals.genruntimeconfig.cache
