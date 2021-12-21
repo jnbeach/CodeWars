@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CoMdt30mKd3aZvj7mCm6h6L2BLujGFalCpYP9fC/muCjzrss49HbxTTURG4d5mKqfJ7VOm9JKwZtzuYHkr/33A==",
+  "dgSpecHash": "ajlLIPu+WsilAkJH4rLfT7gXF8BaP48TGctuhkrAVFISk259OMVR96f6foRm5UA173C0RnvhMQtcn7wSfd60SQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\straw\\OneDrive\\Documents\\Coding\\CodeWars\\MoleculesToAtoms\\MoleculesToAtoms.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\straw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

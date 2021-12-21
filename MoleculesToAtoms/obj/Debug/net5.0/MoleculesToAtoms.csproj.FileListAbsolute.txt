@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\MoleculesToAtoms.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\MoleculesToAtoms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\MoleculesToAtoms.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\MoleculesToAtoms.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\MoleculesToAtoms.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\bin\Debug\net5.0\MoleculesToAtoms.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\bin\Debug\net5.0\MoleculesToAtoms.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\bin\Debug\net5.0\MoleculesToAtoms.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\bin\Debug\net5.0\MoleculesToAtoms.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\bin\Debug\net5.0\MoleculesToAtoms.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\bin\Debug\net5.0\ref\MoleculesToAtoms.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\bin\Debug\net5.0\MoleculesToAtoms.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\MoleculesToAtoms.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\ref\MoleculesToAtoms.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\MoleculesToAtoms.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\MoleculesToAtoms\obj\Debug\net5.0\MoleculesToAtoms.genruntimeconfig.cache
