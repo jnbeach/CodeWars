@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\bin\Debug\net6.0\HelpTheFarmer.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\bin\Debug\net6.0\HelpTheFarmer.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\bin\Debug\net6.0\HelpTheFarmer.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\bin\Debug\net6.0\HelpTheFarmer.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\bin\Debug\net6.0\ref\HelpTheFarmer.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\bin\Debug\net6.0\HelpTheFarmer.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\HelpTheFarmer.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\HelpTheFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\HelpTheFarmer.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\HelpTheFarmer.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\HelpTheFarmer.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\HelpTheFarmer.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\ref\HelpTheFarmer.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\HelpTheFarmer.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\HelpTheFarmer\obj\Debug\net6.0\HelpTheFarmer.genruntimeconfig.cache

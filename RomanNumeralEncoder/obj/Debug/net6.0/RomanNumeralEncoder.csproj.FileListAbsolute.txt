@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\RomanNumeralEncoder.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\RomanNumeralEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\RomanNumeralEncoder.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\RomanNumeralEncoder.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\RomanNumeralEncoder.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\bin\Debug\net6.0\RomanNumeralEncoder.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\bin\Debug\net6.0\RomanNumeralEncoder.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\bin\Debug\net6.0\RomanNumeralEncoder.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\bin\Debug\net6.0\RomanNumeralEncoder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\bin\Debug\net6.0\ref\RomanNumeralEncoder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\bin\Debug\net6.0\RomanNumeralEncoder.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\RomanNumeralEncoder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\ref\RomanNumeralEncoder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\RomanNumeralEncoder.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralEncoder\obj\Debug\net6.0\RomanNumeralEncoder.genruntimeconfig.cache

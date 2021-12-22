@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\bin\Debug\net6.0\AlphabetPosition.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\bin\Debug\net6.0\AlphabetPosition.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\bin\Debug\net6.0\AlphabetPosition.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\bin\Debug\net6.0\AlphabetPosition.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\bin\Debug\net6.0\ref\AlphabetPosition.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\bin\Debug\net6.0\AlphabetPosition.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\AlphabetPosition.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\AlphabetPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\AlphabetPosition.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\AlphabetPosition.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\AlphabetPosition.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\AlphabetPosition.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\ref\AlphabetPosition.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\AlphabetPosition.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\AlphabetPosition\obj\Debug\net6.0\AlphabetPosition.genruntimeconfig.cache
