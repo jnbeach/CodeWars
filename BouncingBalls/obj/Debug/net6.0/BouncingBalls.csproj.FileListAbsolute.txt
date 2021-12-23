@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\bin\Debug\net6.0\BouncingBalls.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\bin\Debug\net6.0\BouncingBalls.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\bin\Debug\net6.0\BouncingBalls.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\bin\Debug\net6.0\BouncingBalls.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\bin\Debug\net6.0\ref\BouncingBalls.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\bin\Debug\net6.0\BouncingBalls.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\BouncingBalls.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\BouncingBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\BouncingBalls.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\BouncingBalls.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\BouncingBalls.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\BouncingBalls.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\ref\BouncingBalls.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\BouncingBalls.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BouncingBalls\obj\Debug\net6.0\BouncingBalls.genruntimeconfig.cache
