@@ -26,9 +26,13 @@ namespace MoleculesToAtoms
         }
         public static Dictionary<string, int> ParseMolecule(string formula)
         {
+            //dictOfAtoms will store our answer.
             Dictionary<string, int> dictOfAtoms = new Dictionary<string, int>();
 
-            //First get all of the Atoms present in the string.
+            //Find all of the parentheses, brackets, and their corresponding multipliers. See the BracketFinder method
+            List<List<int>> BracketList = BracketFinder(formula);
+
+            //Now count all of the Atoms present in the string.
             char ch;
             char nextCh;
             for (int i = 0; i < formula.Length; i++)
@@ -71,18 +75,6 @@ namespace MoleculesToAtoms
                     }
                 }
             }
-            //Next count all of them
-            // ( = 40 ) = 41
-            // [ = 91 ] = 93
-            // { = 123 } = 124
-            // for (int i = 0; i < formula.length; i++)
-            // {
-
-            // }
-
-
-
-            // Do your science here :)
             return dictOfAtoms;
         }
 
@@ -100,17 +92,20 @@ namespace MoleculesToAtoms
                     if (formula[i] == '(') bracketPair.Add(formula.IndexOf(')', i));
                     if (formula[i] == '[') bracketPair.Add(formula.IndexOf(']', i));
                     if (formula[i] == '{') bracketPair.Add(formula.IndexOf('}', i));
-                    //BracketPair[1] is now the index of the closing bracket. If there is a number after the closing bracket, add the multiplying number to the bracket pair info.
+                    //BracketPair[1] is the index of the closing bracket. If there is a number after the closing bracket, add the multiplying number to the bracket pair info. (also make sure that further than the end of the array is not accessed.)
                     if (bracketPair[1] != formula.Length - 1)
                     {
                         if (char.IsDigit(formula[bracketPair[1] + 1]))
                         {
                             int digitCounter = 1;
-                            while (char.IsDigit(formula[bracketPair[1] + 1 + counter]))
+                            while (bracketPair[1] + 1 + digitCounter < formula.Length)
                             {
-                                digitCounter++;
+                                if (char.IsDigit(formula[bracketPair[1] + 1 + digitCounter]))
+                                {
+                                    digitCounter++;
+                                }
                             }
-                            bracketMult = Convert.ToInt32(formula.Substring(bracketPair[1] + 1, 1));
+                            bracketMult = Convert.ToInt32(formula.Substring(bracketPair[1] + 1, digitCounter));
                             bracketPair.Add(bracketMult);
                         }
                         else

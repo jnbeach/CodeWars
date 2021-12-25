@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\bin\Debug\net6.0\UniqueInOrder.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\bin\Debug\net6.0\UniqueInOrder.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\bin\Debug\net6.0\UniqueInOrder.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\bin\Debug\net6.0\UniqueInOrder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\bin\Debug\net6.0\ref\UniqueInOrder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\bin\Debug\net6.0\UniqueInOrder.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\UniqueInOrder.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\UniqueInOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\UniqueInOrder.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\UniqueInOrder.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\UniqueInOrder.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\UniqueInOrder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\ref\UniqueInOrder.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\UniqueInOrder.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\UniqueInOrder\obj\Debug\net6.0\UniqueInOrder.genruntimeconfig.cache

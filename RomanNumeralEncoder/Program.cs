@@ -42,3 +42,22 @@ static string Solution(int n)
 
     return answer;
 }
+
+static string Romanize(int numToConvert)
+{
+    int[] nums = { 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1 };
+
+    string[] romans = { "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I" };
+
+    string result = "";
+
+    for (int i = 0; i < nums.Length && numToConvert != 0; i++)
+    {
+        while (numToConvert >= nums[i])
+        {
+            numToConvert -= nums[i];
+            result += romans[i];
+        }
+    }
+    return result;
+}

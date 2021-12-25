@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\bin\Debug\net6.0\BackspacesInString.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\bin\Debug\net6.0\BackspacesInString.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\bin\Debug\net6.0\BackspacesInString.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\bin\Debug\net6.0\BackspacesInString.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\bin\Debug\net6.0\ref\BackspacesInString.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\bin\Debug\net6.0\BackspacesInString.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\BackspacesInString.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\BackspacesInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\BackspacesInString.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\BackspacesInString.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\BackspacesInString.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\BackspacesInString.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\ref\BackspacesInString.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\BackspacesInString.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BackspacesInString\obj\Debug\net6.0\BackspacesInString.genruntimeconfig.cache

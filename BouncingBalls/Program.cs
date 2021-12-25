@@ -10,10 +10,9 @@ static int bouncingBall(double h, double bounce, double window)
     int counter = 0;
     while (h > window)
     {
-        counter++;
-        h = bounce * h;
-        if (h > window) counter++;
+        counter++; //Count up on the fall down.
+        h = bounce * h; //This is the height of the bounce
+        if (h > window) counter++; // If higher than the window, count the bounce.
     }
-
     return counter;
 }

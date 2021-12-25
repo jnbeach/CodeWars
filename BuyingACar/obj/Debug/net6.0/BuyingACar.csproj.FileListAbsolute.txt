@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\bin\Debug\net6.0\BuyingACar.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\bin\Debug\net6.0\BuyingACar.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\bin\Debug\net6.0\BuyingACar.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\bin\Debug\net6.0\BuyingACar.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\bin\Debug\net6.0\ref\BuyingACar.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\bin\Debug\net6.0\BuyingACar.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\BuyingACar.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\BuyingACar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\BuyingACar.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\BuyingACar.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\BuyingACar.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\BuyingACar.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\ref\BuyingACar.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\BuyingACar.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BuyingACar\obj\Debug\net6.0\BuyingACar.genruntimeconfig.cache
