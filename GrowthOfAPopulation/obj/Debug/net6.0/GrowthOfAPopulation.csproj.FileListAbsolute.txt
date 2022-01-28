@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\bin\Debug\net6.0\GrowthOfAPopulation.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\bin\Debug\net6.0\GrowthOfAPopulation.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\bin\Debug\net6.0\GrowthOfAPopulation.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\bin\Debug\net6.0\GrowthOfAPopulation.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\bin\Debug\net6.0\ref\GrowthOfAPopulation.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\bin\Debug\net6.0\GrowthOfAPopulation.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\GrowthOfAPopulation.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\GrowthOfAPopulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\GrowthOfAPopulation.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\GrowthOfAPopulation.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\GrowthOfAPopulation.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\GrowthOfAPopulation.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\ref\GrowthOfAPopulation.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\GrowthOfAPopulation.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\GrowthOfAPopulation\obj\Debug\net6.0\GrowthOfAPopulation.genruntimeconfig.cache
