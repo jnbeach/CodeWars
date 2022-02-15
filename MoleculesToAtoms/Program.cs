@@ -10,114 +10,201 @@ namespace MoleculesToAtoms
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("MoleculesToAtoms");
             Console.WriteLine("---------------------------------------------");
-            Console.WriteLine("Please give me any molecule (e.g. H20, C(OH)4");
-            string inputMolecule = Console.ReadLine();
+            Console.WriteLine("Please give me any molecule (e.g. H2O, C(OH)4)");
+            // string inputMolecule = Console.ReadLine();
+            string inputMolecule = "K4[ON(SO3)2]2";
+            // string inputMolecule = "{((H)2)[O]}";
+            Console.WriteLine($"{inputMolecule}");
+
             Dictionary<string, int> atomList = ParseMolecule(inputMolecule);
             foreach (KeyValuePair<string, int> kvp in atomList)
             {
                 Console.WriteLine($"{kvp.Key}: {kvp.Value}");
 
             }
-            List<List<int>> listOfBrackets = BracketFinder(inputMolecule);
-            foreach (List<int> BracketPair in listOfBrackets)
+            int[] bracketMults = BracketMultFinder(inputMolecule);
+            Console.Write($"\n[ ");
+            foreach (int mult in bracketMults)
             {
-                Console.WriteLine($"{BracketPair[0]} {BracketPair[1]} Mult:{BracketPair[2]}");
+                Console.Write($"{mult} ");
             }
+            Console.Write($"]\n");
         }
         public static Dictionary<string, int> ParseMolecule(string formula)
         {
             //dictOfAtoms will store our answer.
             Dictionary<string, int> dictOfAtoms = new Dictionary<string, int>();
 
-            //Find all of the parentheses, brackets, and their corresponding multipliers. See the BracketFinder method
-            List<List<int>> BracketList = BracketFinder(formula);
+            //First, find all of the parentheses, brackets, and their corresponding bracketMults. See the BracketFinder method
+            int[] bracketMults = BracketMultFinder(formula);
 
-            //Now count all of the Atoms present in the string.
-            char ch;
-            char nextCh;
-            for (int i = 0; i < formula.Length; i++)
+            //Now count all of the Atoms present in the string using a while loop.
+            int index = 0; //This is the current index in the string.
+            int startingIndex; //Used to hold info on where we start each While loop iteration for the bracketMult info.
+            char ch; // This is the current character in the string that we are accessing.
+            string element = ""; // This will store the current element to be added to 'dictOfAtoms'.
+            string countString = ""; // The current multiple for each element (right after the element)
+            int elementCount = 1; // Used to convert the string to an integer.
+
+            while (index < formula.Length)
             {
-                ch = formula[i];
-                if (i != formula.Length - 1)
+                startingIndex = index;
+                ch = formula[index];
+                //If the character is uppercase, move to the next character.
+                if (char.IsUpper(ch))
                 {
-                    nextCh = formula[i + 1];
-                }
-                else
-                {
-                    nextCh = formula[i];
-                }
-                //Only do this if the character is Upper and is NOT the last character.
-                if (char.IsUpper(ch) && i != formula.Length - 1)
-                {
-                    //If the next character is lowercase, add the 2 letter atom.
-                    if (char.IsLower(nextCh))
+                    element += ch; //Save the character to the current element.
+                    index++;
+                    if (index < formula.Length) ch = formula[index];
+                    //If the next character is lowercase, check if there is a number next to it.
+                    if (char.IsLower(ch) && index < formula.Length)
                     {
-                        if (!dictOfAtoms.ContainsKey(formula.Substring(i, 2)))
+                        element += ch; //Save the character to the current element.
+                        index++;
+                        if (index < formula.Length) ch = formula[index];
+                        while (char.IsLower(ch) && index < formula.Length)
                         {
-                            dictOfAtoms.Add(formula.Substring(i, 2), 1);
+                            element += ch; //Save the character to the current element.
+                            index++;
+                            if (index < formula.Length) ch = formula[index];
+                        }
+                        while (char.IsDigit(ch) && index < formula.Length)
+                        {
+                            countString += ch;
+                            index++;
+                            if (index < formula.Length) ch = formula[index];
+                        }
+                        if (countString != "") elementCount = Int32.Parse(countString);
+                        //If the dictionary DOES NOT already contain the element, then add it.
+                        if (!dictOfAtoms.ContainsKey(element))
+                        {
+                            dictOfAtoms.Add(element, elementCount * bracketMults[startingIndex]);
+                        }
+                        else //otherwise, just add to the existing value.
+                        {
+                            dictOfAtoms[element] += elementCount * bracketMults[startingIndex];
                         }
                     }
-                    //If the next character anything else, add the atom.
+                    //If the next character IS NOT lowercase and we are still in the bounds of the array,
+                    // then check if there is a number next to it.
+                    else if (index < formula.Length)
+                    {
+                        while (char.IsDigit(ch) && index < formula.Length)
+                        {
+                            countString += ch;
+                            index++;
+                            if (index < formula.Length) ch = formula[index];
+                        }
+                        if (countString != "") elementCount = Int32.Parse(countString);
+                        //If the dictionary DOES NOT already contain the element, then add it.
+                        if (!dictOfAtoms.ContainsKey(element))
+                        {
+                            dictOfAtoms.Add(element, elementCount * bracketMults[startingIndex]);
+                        }
+                        else //otherwise, just add to the existing value.
+                        {
+                            dictOfAtoms[element] += elementCount * bracketMults[startingIndex];
+                        }
+                    }
+                    //Finally, if it is just capital by itself or the last character in the array,
+                    // then just add it by itself.
                     else
                     {
-                        if (!dictOfAtoms.ContainsKey(formula.Substring(i, 1)))
+                        //If the dictionary DOES NOT already contain the element, then add it.
+                        if (!dictOfAtoms.ContainsKey(element))
                         {
-                            dictOfAtoms.Add(formula.Substring(i, 1), 1);
+                            dictOfAtoms.Add(element, 1);
+                        }
+                        else //otherwise, just add to the existing value.
+                        {
+                            dictOfAtoms[element] += 1;
                         }
                     }
+                    // Reset variables before the next loop.
+                    element = "";
+                    countString = "";
+                    elementCount = 1;
                 }
-                //If i is at the last character and the last character is Uppercase, then add the last character if it's not already contained.
-                else if (char.IsUpper(ch) && i == formula.Length - 1)
-                {
-                    if (!dictOfAtoms.ContainsKey(formula.Substring(i, 1)))
-                    {
-                        dictOfAtoms.Add(formula.Substring(i, 1), 1);
-                    }
-                }
+                else index++;
             }
+
             return dictOfAtoms;
         }
 
-        public static List<List<int>> BracketFinder(string formula)
+        public static int[] BracketMultFinder(string formula)
         {
-            List<List<int>> listOfBrackets = new List<List<int>>();
-            List<int> bracketPair;
+            int[] bracketMults = new int[formula.Length];
+            for (int i = 0; i < bracketMults.Length; i++)
+            {
+                bracketMults[i] = 1;
+            }
+
+            string bracketMultString = "";
             int bracketMult = 1;
+            // These two ints will store the locations of the brackets that we find.
+            // We'll initialize at the beginning and the end.
+            int leftIndex = 0;
+            int rightIndex = formula.Length - 1;
             for (int i = 0; i < formula.Length; i++)
             {
                 if (formula[i] == '(' || formula[i] == '[' || formula[i] == '{')
                 {
-                    bracketPair = new List<int>();
-                    bracketPair.Add(i);
-                    if (formula[i] == '(') bracketPair.Add(formula.IndexOf(')', i));
-                    if (formula[i] == '[') bracketPair.Add(formula.IndexOf(']', i));
-                    if (formula[i] == '{') bracketPair.Add(formula.IndexOf('}', i));
-                    //BracketPair[1] is the index of the closing bracket. If there is a number after the closing bracket, add the multiplying number to the bracket pair info. (also make sure that further than the end of the array is not accessed.)
-                    if (bracketPair[1] != formula.Length - 1)
+                    leftIndex = i;
+                    //Search from right to left for the closing brackets.
+                    if (formula[i] == '(')
                     {
-                        if (char.IsDigit(formula[bracketPair[1] + 1]))
+                        // Need to count how many other opening brackets are encountered while searching
+                        // for the corresponding closing bracket
+                        // int ignoreCounter = 0;
+                        // int counter = 1;
+                        // while (formula[i + counter] != ')' || ignoreCounter >= 0)
+                        // {
+                        //     if (formula[i + counter] == '(')
+                        //     {
+                        //         ignoreCounter++;
+                        //     }
+                        //     else if (formula[i + counter] == ')')
+                        //     {
+                        //         ignoreCounter--;
+                        //     }
+                        //     counter++;
+                        // }
+                        // rightIndex = i + counter;
+                        rightIndex = formula.IndexOf(')', i);
+                    }
+                    if (formula[i] == '[')
+                    {
+                        rightIndex = formula.IndexOf(']', i);
+                    }
+                    if (formula[i] == '{')
+                    {
+                        rightIndex = formula.IndexOf('}', i);
+                    }
+
+                    int digitCounter = 0;
+                    if (rightIndex + 1 < formula.Length)
+                    {
+                        while (char.IsDigit(formula[rightIndex + digitCounter + 1]))
                         {
-                            int digitCounter = 1;
-                            while (bracketPair[1] + 1 + digitCounter < formula.Length)
-                            {
-                                if (char.IsDigit(formula[bracketPair[1] + 1 + digitCounter]))
-                                {
-                                    digitCounter++;
-                                }
-                            }
-                            bracketMult = Convert.ToInt32(formula.Substring(bracketPair[1] + 1, digitCounter));
-                            bracketPair.Add(bracketMult);
-                        }
-                        else
-                        {
-                            bracketPair.Add(bracketMult);
+                            bracketMultString += formula[rightIndex + digitCounter + 1];
+                            digitCounter++;
+                            if (rightIndex + 1 + digitCounter >= formula.Length) break;
                         }
                     }
-                    listOfBrackets.Add(bracketPair);
+                    // If digits were found, then save the multiplier and reset bracketMultString.
+                    if (digitCounter > 0)
+                    {
+                        bracketMult = Int32.Parse(bracketMultString);
+                        bracketMultString = "";
+                    }
+                    for (int j = leftIndex; j < rightIndex; j++)
+                    {
+                        bracketMults[j] *= bracketMult;
+                    }
                 }
             }
 
-            return listOfBrackets;
+            return bracketMults;
         }
 
     }
