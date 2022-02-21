@@ -12,8 +12,8 @@ namespace MoleculesToAtoms
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("Please give me any molecule (e.g. H2O, C(OH)4)");
             // string inputMolecule = Console.ReadLine();
-            string inputMolecule = "K4[ON(SO3)2]2";
-            // string inputMolecule = "{((H)2)[O]}";
+            // string inputMolecule = "K4[ON(SO3)2]2";
+            string inputMolecule = "{((H)2)[O]}";
             Console.WriteLine($"{inputMolecule}");
 
             Dictionary<string, int> atomList = ParseMolecule(inputMolecule);
@@ -141,45 +141,22 @@ namespace MoleculesToAtoms
 
             string bracketMultString = "";
             int bracketMult = 1;
-            // These two ints will store the locations of the brackets that we find.
+            // The Stack will store all of the beginning parens. Once we find the end parens,
+            // then, each opening paren will be popped off the stack.
             // We'll initialize at the beginning and the end.
-            int leftIndex = 0;
-            int rightIndex = formula.Length - 1;
+            var BracketIndexStack = new Stack<int>();
+            int leftIndex;
+            int rightIndex;
             for (int i = 0; i < formula.Length; i++)
             {
                 if (formula[i] == '(' || formula[i] == '[' || formula[i] == '{')
                 {
-                    leftIndex = i;
-                    //Search from right to left for the closing brackets.
-                    if (formula[i] == '(')
-                    {
-                        // Need to count how many other opening brackets are encountered while searching
-                        // for the corresponding closing bracket
-                        // int ignoreCounter = 0;
-                        // int counter = 1;
-                        // while (formula[i + counter] != ')' || ignoreCounter >= 0)
-                        // {
-                        //     if (formula[i + counter] == '(')
-                        //     {
-                        //         ignoreCounter++;
-                        //     }
-                        //     else if (formula[i + counter] == ')')
-                        //     {
-                        //         ignoreCounter--;
-                        //     }
-                        //     counter++;
-                        // }
-                        // rightIndex = i + counter;
-                        rightIndex = formula.IndexOf(')', i);
-                    }
-                    if (formula[i] == '[')
-                    {
-                        rightIndex = formula.IndexOf(']', i);
-                    }
-                    if (formula[i] == '{')
-                    {
-                        rightIndex = formula.IndexOf('}', i);
-                    }
+                    BracketIndexStack.Push(i);
+                }
+                else if (formula[i] == ')' || formula[i] == ']' || formula[i] == '}')
+                {
+                    leftIndex = BracketIndexStack.Pop();
+                    rightIndex = i;
 
                     int digitCounter = 0;
                     if (rightIndex + 1 < formula.Length)
@@ -195,12 +172,13 @@ namespace MoleculesToAtoms
                     if (digitCounter > 0)
                     {
                         bracketMult = Int32.Parse(bracketMultString);
+                        for (int j = leftIndex + 1; j < rightIndex; j++)
+                        {
+                            bracketMults[j] *= bracketMult;
+                        }
                         bracketMultString = "";
                     }
-                    for (int j = leftIndex; j < rightIndex; j++)
-                    {
-                        bracketMults[j] *= bracketMult;
-                    }
+
                 }
             }
 

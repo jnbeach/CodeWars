@@ -1,0 +1,16 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\bin\Debug\net5.0\RomanNumeralHelper.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\bin\Debug\net5.0\RomanNumeralHelper.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\bin\Debug\net5.0\RomanNumeralHelper.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\bin\Debug\net5.0\RomanNumeralHelper.runtimeconfig.dev.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\bin\Debug\net5.0\RomanNumeralHelper.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\bin\Debug\net5.0\ref\RomanNumeralHelper.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\bin\Debug\net5.0\RomanNumeralHelper.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\RomanNumeralHelper.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\RomanNumeralHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\RomanNumeralHelper.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\RomanNumeralHelper.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\RomanNumeralHelper.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\RomanNumeralHelper.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\ref\RomanNumeralHelper.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\RomanNumeralHelper.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\RomanNumeralHelper\obj\Debug\net5.0\RomanNumeralHelper.genruntimeconfig.cache
