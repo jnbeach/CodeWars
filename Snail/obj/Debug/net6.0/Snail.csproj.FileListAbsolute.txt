@@ -7,9 +7,9 @@ C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\bin\Debug\net6.0\Snail.e
 C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\bin\Debug\net6.0\Snail.deps.json
 C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\bin\Debug\net6.0\Snail.runtimeconfig.json
 C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\bin\Debug\net6.0\Snail.dll
-C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\bin\Debug\net6.0\ref\Snail.dll
 C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\bin\Debug\net6.0\Snail.pdb
 C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\obj\Debug\net6.0\Snail.dll
 C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\obj\Debug\net6.0\ref\Snail.dll
 C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\obj\Debug\net6.0\Snail.pdb
 C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\obj\Debug\net6.0\Snail.genruntimeconfig.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\Snail\obj\Debug\net6.0\refint\Snail.dll
