@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BaseNegative2/1.0.0": {
+        "runtime": {
+          "BaseNegative2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseNegative2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

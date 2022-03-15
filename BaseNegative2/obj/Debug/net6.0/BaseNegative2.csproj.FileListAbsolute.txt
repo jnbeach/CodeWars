@@ -1,0 +1,15 @@
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\bin\Debug\net6.0\BaseNegative2.exe
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\bin\Debug\net6.0\BaseNegative2.deps.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\bin\Debug\net6.0\BaseNegative2.runtimeconfig.json
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\bin\Debug\net6.0\BaseNegative2.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\bin\Debug\net6.0\ref\BaseNegative2.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\bin\Debug\net6.0\BaseNegative2.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\BaseNegative2.csproj.AssemblyReference.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\BaseNegative2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\BaseNegative2.AssemblyInfoInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\BaseNegative2.AssemblyInfo.cs
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\BaseNegative2.csproj.CoreCompileInputs.cache
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\BaseNegative2.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\ref\BaseNegative2.dll
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\BaseNegative2.pdb
+C:\Users\straw\OneDrive\Documents\Coding\CodeWars\BaseNegative2\obj\Debug\net6.0\BaseNegative2.genruntimeconfig.cache
